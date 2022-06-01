@@ -1,0 +1,21 @@
+.cardWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 6em;
+}
+
+.paraText {
+  font-size: 22px;
+  line-height: 1.6em;
+  color: #c4c4c4;
+  margin-bottom: 40px;
+}
+
+.signInWrapper {
+  margin-top: 20px;
+}
+
+.hasInvite {
+  color: #0077ff;
+}
